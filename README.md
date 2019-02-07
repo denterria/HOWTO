@@ -2,9 +2,9 @@
 
 HOWTO:
 
-================================
+===============
 ONLINE GITHUB:
-================================
+===============
 
 * https://github.com/denterria
 * https://gitlab.cern.ch/profile
@@ -17,9 +17,9 @@ ONLINE GITHUB:
    Pull requests show diffs, or differences, of the content from both branches.
 4) MERGE a pull request: Bring in your branch edits into the master branch.
 
-================================
+============
 LOCAL REPO:
-================================
+============
 
 0) CLONE repo:
 
